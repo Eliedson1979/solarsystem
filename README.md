@@ -2,7 +2,7 @@
 
 ![Preview Projeto](./preview.png)
 
-## Acesse o projeto clicando <a href="">AQUI</a>
+## Acesse o projeto clicando <a href="https://eliedson1979.github.io/solarsystem/">AQUI</a>
 
 <br />
 
@@ -23,7 +23,7 @@ Nesse projeto desenvolvemos uma aplicação para criar uma lista de planetas e a
 ### 1 - Clone o repositório:
 
 ```
-git clone 
+git clone git@github.com:Eliedson1979/solarsystem.git
 ```
 
 ### 2 - Apos ter o repositório clonado em sua maquina, execute este comando para acessar a pasta do projeto:
