@@ -10,7 +10,7 @@
 
 Projeto desenvolvido na <a href="https://betrybe.com/" target="_blank">Trybe</a> durante o módulo de Front-End!
 
-Nesse projeto desenvolvemos uma aplicação para criar uma lista de planetas e algumas missões espaciais.
+Nesse projeto desenvolvi uma aplicação para criar uma lista de planetas e algumas missões espaciais.
 
 <br />
 
